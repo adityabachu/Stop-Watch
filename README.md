@@ -4,19 +4,13 @@
 ## Description
 
 A simple stopwatch application built with HTML, CSS, and JavaScript. It can start, stop, and reset the time.
-
+## Live Project
+https://adityabachu.github.io/
 ## Files
 
 - `index.html`: Defines the structure of the webpage.
 - `style.css`: Styles the webpage.
 - `script.js`: Adds functionality to the stopwatch.
-
-## How to Use
-
-1. Open `index.html` in a web browser.
-2. Click "Start" to start the stopwatch.
-3. Click "Stop" to stop the stopwatch.
-4. Click "Reset" to reset the stopwatch.
 
 ## File Details
 
