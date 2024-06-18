@@ -5,7 +5,7 @@
 
 A simple stopwatch application built with HTML, CSS, and JavaScript. It can start, stop, and reset the time.
 ## Live Project
-https://adityabachu.github.io/
+https://adityabachu.github.io/Stop-Watch/
 ## Files
 
 - `index.html`: Defines the structure of the webpage.
