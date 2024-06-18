@@ -1,0 +1,49 @@
+/* Global styles */
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Body styles */
+body{
+    background-color: rgba(112, 182, 232, 0.7); /* Light blue background with transparency */
+    color: #ffffff; /* White text color */
+    display: flex; /* Flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    min-height: 100vh; /* Full viewport height */
+    flex-direction: column; /* Column layout */
+}
+
+/* Stopwatch container styles */
+.stopwatch{
+    background-color: rgba(0, 0, 0, 0.9); /* Dark background with transparency */
+    padding: 20px 24px; /* Padding around the content */
+    border-radius: 45px; /* Rounded corners */
+}
+
+/* Timer display styles */
+.timerDisplay{
+    font-size: 50px; /* Large font size */
+    font-weight: 300; /* Light font weight */
+}
+
+/* Buttons container styles */
+.buttons{
+    margin-top: 20px; /* Space above the buttons */
+}
+
+/* Button styles */
+.btn{
+    font-size: 20px; /* Font size */
+    background: none; /* No background */
+    border: none; /* No border */
+    color: #fff; /* White text color */
+    background-color: var(--clr); /* Custom background color from inline style */
+    padding: 12px 24px; /* Padding inside the button */
+    margin-inline: 10px; /* Horizontal margin */
+    border-radius: 30px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+}
